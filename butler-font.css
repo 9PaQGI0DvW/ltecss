@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "ButlerStencil-Medium";
+    font-weight: 400;
+    font-style: normal;
+    src: url("https://dev.rocketyze.com/lonelytreeevents/ButlerStencil-Medium.woff2") format("woff2"),
+         url("https://dev.rocketyze.com/lonelytreeevents/ButlerStencil-Medium.woff") format("woff");
+}
